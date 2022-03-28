@@ -3,7 +3,7 @@
 
 :smile:
 
-![gif](https://i.giphy.com/media/3ohs7M9LtswHUDqPjW/giphy.webp)
+![gif](https://media0.giphy.com/media/3o7WIIC8bMnvkFO30Q/giphy.gif?cid=ecf05e47er14sjh7ar6borvip73ldshnxuj68d42sjd2190g&rid=giphy.gif&ct=g)
 <!--
 **eozbademci/eozbademci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

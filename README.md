@@ -4,6 +4,12 @@
 :smile:
 
 ![gif](https://media0.giphy.com/media/3o7WIIC8bMnvkFO30Q/giphy.gif?cid=ecf05e47er14sjh7ar6borvip73ldshnxuj68d42sjd2190g&rid=giphy.gif&ct=g)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eozbademci&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Erdal's GitHub Stats" />
 <!--
 **eozbademci/eozbademci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

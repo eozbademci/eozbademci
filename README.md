@@ -1,9 +1,6 @@
 ### Hi there 👋
-## erdal özbademci
-
-:smile:
-
-![gif](https://media2.giphy.com/media/3o85xC8sdW7vmG6bRe/giphy.gif?cid=ecf05e470gvy2oo8bw7qlr61xyizzfm6ch05mccdxgn3aqsd&rid=giphy.gif&ct=g)
+<p align="center">
+![gif](https://media2.giphy.com/media/3o85xC8sdW7vmG6bRe/giphy.gif?cid=ecf05e470gvy2oo8bw7qlr61xyizzfm6ch05mccdxgn3aqsd&rid=giphy.gif&ct=g) </p>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />

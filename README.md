@@ -3,7 +3,7 @@
 
 :smile:
 
-![gif](https://media1.giphy.com/media/fo4SEMvL8vdd2v2ffp/giphy.gif?cid=ecf05e47or9f31ir2jyugzq7pyxjk3i845tby8ikcnmdtu0b&rid=giphy.gif&ct=g)
+![gif](https://media0.giphy.com/media/3o7WIIC8bMnvkFO30Q/giphy.gif?cid=ecf05e47er14sjh7ar6borvip73ldshnxuj68d42sjd2190g&rid=giphy.gif&ct=g)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />

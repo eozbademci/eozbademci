@@ -5,8 +5,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 <br>
-<img align="left" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/74e3c8ec7141814eba04aec95a85a8af938a4c61/icons/multi/file_type_vhdl%403x.png" />
+<img align="left" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/74e3c8ec7141814eba04aec95a85a8af938a4c61/icons/multi/file_type_vhdl%403x.png" width="50px" height="50px"/>
 
+<img align="left" src="https://img.icons8.com/color/344/python--v2.png" width="50px" height="50px" />
 <!--
 **eozbademci/eozbademci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

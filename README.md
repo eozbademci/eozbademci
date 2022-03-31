@@ -9,7 +9,7 @@
 
 <img align="left" src="https://img.icons8.com/color/344/python--v2.png" width="50px" height="50px" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width="50px" height="50px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg.png?20130608172504" width="50px" height="50px" />
 
 <!--
 **eozbademci/eozbademci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

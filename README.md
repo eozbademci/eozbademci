@@ -11,7 +11,7 @@
 
 <img align="left" src="https://symbols.getvecta.com/stencil_90/39_opencv-icon.247c70711b.svg" width="50px" height="50px" />
 
-<img align="left" src="https://i.pinimg.com/originals/97/57/5a/97575a1d15d506b19ef979f4166f3235.png" width="150px" height="50px" />
+<img align="left" src="https://answers.ros.org/upfiles/14554624266871161.png" width="50px" height="50px" />
 
 <!--
 **eozbademci/eozbademci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -41,17 +41,18 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "IoT"]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p align="left"> 
+<img
       src="https://img.icons8.com/color/344/python--v2.png"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      alt="python" width="40" height="40" /> 
  <img      src="https://raw.githubusercontent.com/SublimeText/AFileIcon/74e3c8ec7141814eba04aec95a85a8af938a4c61/icons/multi/file_type_vhdl%403x.png"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      alt="vhdl" width="40" height="40" />
 <img      src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      alt="vivado" width="40" height="40" /> 
       <img      src="https://symbols.getvecta.com/stencil_90/39_opencv-icon.247c70711b.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img      src="https://answers.ros.org/upfiles/14554624266871161.png"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img      src="https://gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      alt="opencv" width="40" height="40" />  <img      src="https://answers.ros.org/upfiles/14554624266871161.png"
+      alt="ros" width="40" height="40" />  <img      src="https://gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg"
+      alt="gazebo" width="40" height="40" /> 
  
 
 
@@ -59,7 +60,7 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "IoT"]
 ![Erdal's github activity graph](https://activity-graph.herokuapp.com/graph?username=eozbademci&theme=xcode)
 
 
-
+```
 
 📊 **This Week I Spent My Time On** 
 

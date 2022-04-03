@@ -18,11 +18,11 @@
 <img align="left" src="https://gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" width="50px" height="50px" />
 
 
-
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
 ![Erdal's github activity graph](https://activity-graph.herokuapp.com/graph?username=eozbademci&theme=xcode)
-
+</p>
 <!--
 **eozbademci/eozbademci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

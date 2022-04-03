@@ -24,7 +24,7 @@ located_in: Sakarya, Turkey
 from: Adana (Turkey)
 job: Computer Engineering Student
 education: [Sakarya University of Applied Sciences]
-company: Coalescent Mobile Robotics
+
 
 fields_of_interests: ["Path Planning", "Digital Design", "Autonomous Vehicles", "Artificial Intelligence", "Digital Image Processing", "Embedded Systems"]
 technical_background: [ "Real-Time Systems", "Digital Design"]

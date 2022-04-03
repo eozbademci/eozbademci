@@ -7,6 +7,8 @@
 
 <img align="left" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/74e3c8ec7141814eba04aec95a85a8af938a4c61/icons/multi/file_type_vhdl%403x.png" width="50px" height="50px"/>
 
+<img align="left" src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" width="50px" height="50px" />
+
 <img align="left" src="https://img.icons8.com/color/344/python--v2.png" width="50px" height="50px" />
 
 <img align="left" src="https://symbols.getvecta.com/stencil_90/39_opencv-icon.247c70711b.svg" width="50px" height="50px" />

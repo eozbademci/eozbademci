@@ -54,10 +54,12 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "IoT"]
       alt="ros" width="40" height="40" />  <img      src="https://gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg"
       alt="gazebo" width="40" height="40" /> 
  
- <br/>
+<br/>
+
+<br/>
 
 <a href="https://github.com/eozbademci/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 <br/>

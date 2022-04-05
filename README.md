@@ -58,9 +58,7 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "IoT"]
 
 <br/>
 
-<a href="https://github.com/eozbademci/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
+
 
 <br/>
       

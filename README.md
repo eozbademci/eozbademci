@@ -72,7 +72,7 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "IoT"]
 
 📊 **This Week I Spent My Time On** 
 
-```text
+
 ⌚︎ Time Zone: GMT+03:00
 
 💬 Programming Languages: 

@@ -29,7 +29,7 @@ education: [Sakarya University of Applied Sciences]
 fields_of_interests: ["Path Planning", "Digital Design", "Autonomous Vehicles", "Artificial Intelligence", "Digital Image Processing", "Embedded Systems"]
 technical_background: [ "Real-Time Systems", "Digital Design"]
 currently_learning: ["ROS", "DroneKit", "Verilog", "Search Algorithms"]
-hobbies: ["Chess", "Cinema", "Competitive Gaming", "IoT"]
+hobbies: ["Chess", "Cinema", "IoT"]
 ```
 
 

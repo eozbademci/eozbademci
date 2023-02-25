@@ -35,11 +35,7 @@ education: [Sakarya University of Applied Sciences]
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eozbademci&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-<br/>
-      
-![Erdal's github activity graph](https://activity-graph.herokuapp.com/graph?username=eozbademci&theme=xcode)
 
-<br/>
 
 
 

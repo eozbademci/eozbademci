@@ -1,4 +1,4 @@
-<img  src="./img/IMG1.PNG" alt="drawing" style="border-radius:5%"/>
+<img  src="./img/IMG1.png" alt="drawing" style="border-radius:5%"/>
 
 
 <p align="center">

@@ -1,4 +1,4 @@
-<img  src="./img1.PNG" alt="drawing" align="left"  width=750px  style="margin-top:50px"/>
+<img  src="./img/img1.PNG" alt="drawing" />/>
 
 
 <p align="center">

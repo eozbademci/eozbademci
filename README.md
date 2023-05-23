@@ -1,4 +1,5 @@
-![](https://visitor-badge.glitch.me/badge?page_id=eozbademci)
+<img  src="./img1.PNG" alt="drawing" align="left"  width=750px  style="margin-top:50px"/>
+
 
 <p align="center">
 <br/>

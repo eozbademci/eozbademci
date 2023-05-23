@@ -1,4 +1,4 @@
-<img  src="./img/img1.PNG" alt="drawing" />/>
+<img  src="./img/img1.PNG" alt="drawing" />
 
 
 <p align="center">
